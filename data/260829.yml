@@ -1,0 +1,65 @@
+about:
+  description: The open source coding agent.
+  license: MIT
+  homepage: https://opencode.ai
+  head: dc4449d
+  archived: false
+  latestVersion: v1.18.25
+  collectedAt: 2026-08-29T07:18:36Z
+timeline:
+  created: 2025-04-30
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 202251
+  watcher: 783
+  fork: 26264
+  release: 867
+  contributor: 985
+  pullRequest: 12045
+  issue: 25184
+language:
+  TypeScript: 26904040
+  MDX: 7582639
+  CSS: 1040033
+  HTML: 48548
+  Astro: 32509
+  JavaScript: 30452
+  Shell: 22559
+  Nix: 10955
+  Dockerfile: 3696
+  PowerShell: 2301
+totalLine: 35677732
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 16
+    mergedPR: 1603
+    openPR: 1088
+    closedIssue: 1135
+    openIssue: 1857
+    commit: 422
+  last90d:
+    since: 2026-05-31
+    release: 53
+    mergedPR: 3285
+    openPR: 1225
+    closedIssue: 4342
+    openIssue: 3776
+    commit: 2166
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 5603
+    openPR: 1377
+    closedIssue: 11656
+    openIssue: 4049
+    commit: 6032
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 7704
+    openPR: 1452
+    closedIssue: 19452
+    openIssue: 4144
+    commit: 13360
