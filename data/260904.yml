@@ -1,27 +1,29 @@
 about:
-  description: The open source coding agent.
+  description:
+  |
+    The open source coding agent.
   license: MIT
   homepage: https://opencode.ai
-  head: c0f09af
+  head: 5cf9f51
   archived: false
-  latestVersion: v1.18.27
-  collectedAt: 2026-09-04T04:59:44Z
+  latestVersion: v1.18.28
+  collectedAt: 2026-09-04T19:54:08Z
 timeline:
   created: 2025-04-30
   lastCommit: 2026-09-04
-  lastRelease: 2026-09-02
+  lastRelease: 2026-09-04
 popularity:
-  star: 203613
-  watcher: 787
-  fork: 26568
-  release: 869
-  contributor: 990
-  pullRequest: 12379
-  issue: 25616
+  star: 203999
+  watcher: 788
+  fork: 26625
+  release: 870
+  contributor: 991
+  pullRequest: 20980
+  issue: 25683
 language:
-  TypeScript: 26942622
-  MDX: 7628097
-  CSS: 1042895
+  TypeScript: 26957513
+  MDX: 7640504
+  CSS: 1043207
   HTML: 48548
   Astro: 32509
   JavaScript: 30452
@@ -29,37 +31,63 @@ language:
   Nix: 10955
   Dockerfile: 3696
   PowerShell: 2301
-totalLine: 35764634
+totalBytes: 35792244
 recent:
   last30d:
     since: 2026-08-05
-    release: 14
-    mergedPR: 1738
-    openPR: 1124
-    closedIssue: 1105
-    openIssue: 1790
-    commit: 368
+    release: 15
+    mergedPR: 1768
+    openPR: 1165
+    closedIssue: 1126
+    openIssue: 1829
+    commit: 381
+  last60d:
+    since: 2026-07-06
+    release: 40
+    mergedPR: 2785
+    openPR: 1256
+    closedIssue: 2223
+    openIssue: 3446
+    commit: 962
   last90d:
     since: 2026-06-06
-    release: 53
-    mergedPR: 3440
-    openPR: 1261
-    closedIssue: 4199
-    openIssue: 3776
-    commit: 1906
+    release: 54
+    mergedPR: 3470
+    openPR: 1302
+    closedIssue: 4222
+    openIssue: 3815
+    commit: 1919
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 5859
-    openPR: 1408
-    closedIssue: 11595
-    openIssue: 4034
-    commit: 5790
+    mergedPR: 5889
+    openPR: 1449
+    closedIssue: 11622
+    openIssue: 4074
+    commit: 5803
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 8013
-    openPR: 1490
-    closedIssue: 19824
-    openIssue: 4130
-    commit: 13357
+    mergedPR: 8043
+    openPR: 1531
+    closedIssue: 19851
+    openIssue: 4170
+    commit: 13370
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 8549
+    openPR: 1531
+    closedIssue: 21505
+    openIssue: 4178
+    commit: 15670
+total:
+  release: 870
+  mergedPR: 8552
+  openPR: 1531
+  closedIssue: 21505
+  openIssue: 4178
+  commit: 15670
+---
+---
+
