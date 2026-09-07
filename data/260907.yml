@@ -2,24 +2,24 @@ about:
   description: "The open source coding agent."
   license: MIT
   homepage: https://opencode.ai
-  head: 53fec37
+  head: ecbc6cc
   archived: false
   latestVersion: "v1.18.29"
-  collectedAt: 2026-09-07T04:44:16Z
+  collectedAt: 2026-09-07T19:36:52Z
 timeline:
   created: 2025-04-30
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 205362
-  watcher: 794
-  fork: 26783
+  star: 205650
+  watcher: 797
+  fork: 26822
   release: 871
   contributor: 994
-  pullRequest: 21173
-  issue: 25855
+  pullRequest: 21223
+  issue: 25916
 language:
-  TypeScript: 26974436
+  TypeScript: 26976091
   MDX: 7653796
   CSS: 1043207
   HTML: 48548
@@ -29,72 +29,72 @@ language:
   Nix: 10955
   Dockerfile: 3696
   PowerShell: 2301
-totalBytes: 35822459
+totalBytes: 35824114
 recent:
   last30d:
     since: 2026-08-08
     release: 14
-    mergedPR: 1747
-    openPR: 1132
-    closedIssue: 1053
-    openIssue: 1775
-    commit: 317
+    mergedPR: 1775
+    openPR: 1146
+    closedIssue: 1077
+    openIssue: 1812
+    commit: 321
   last60d:
     since: 2026-07-09
     release: 39
-    mergedPR: 2773
-    openPR: 1250
-    closedIssue: 2154
-    openIssue: 3406
-    commit: 817
+    mergedPR: 2801
+    openPR: 1264
+    closedIssue: 2179
+    openIssue: 3442
+    commit: 821
   last90d:
     since: 2026-06-09
     release: 55
-    mergedPR: 3492
-    openPR: 1301
-    closedIssue: 4160
-    openIssue: 3813
-    commit: 1737
+    mergedPR: 3520
+    openPR: 1315
+    closedIssue: 4185
+    openIssue: 3849
+    commit: 1741
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 5919
-    openPR: 1445
-    closedIssue: 11540
-    openIssue: 4066
-    commit: 5605
+    mergedPR: 5947
+    openPR: 1458
+    closedIssue: 11565
+    openIssue: 4102
+    commit: 5609
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 8112
-    openPR: 1531
-    closedIssue: 20000
-    openIssue: 4165
-    commit: 13279
+    mergedPR: 8140
+    openPR: 1544
+    closedIssue: 20025
+    openIssue: 4201
+    commit: 13283
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 8631
-    openPR: 1531
-    closedIssue: 21683
-    openIssue: 4172
-    commit: 15692
+    mergedPR: 8659
+    openPR: 1544
+    closedIssue: 21708
+    openIssue: 4208
+    commit: 15696
 total:
   release: 871
-  mergedPR: 8634
-  openPR: 1531
-  closedIssue: 21683
-  openIssue: 4172
-  commit: 15692
+  mergedPR: 8662
+  openPR: 1544
+  closedIssue: 21708
+  openIssue: 4208
+  commit: 15696
 ---
 path: /home/runner/.x-repo/github.com/anomalyco/opencode
-collectedAt: 2026-09-07T04:44:50Z
+collectedAt: 2026-09-07T19:37:24Z
 loc:
   TypeScript:
-    code: 484575
-    comments: 11821
-    blanks: 42507
-    files: 2695
+    code: 484600
+    comments: 11831
+    blanks: 42510
+    files: 2696
   Json:
     code: 430556
     comments: 0
@@ -181,15 +181,15 @@ loc:
     blanks: 479
     files: 42
 total:
-  code: 1102376
-  comments: 28300
-  blanks: 62715
-  files: 5385
+  code: 1102401
+  comments: 28310
+  blanks: 62718
+  files: 5386
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:44:53+00:00
+  collectedAt: 2026-09-07T19:37:26+00:00
   platform:
     darwin/arm64:
       name:  opencode-darwin-arm64.zip
