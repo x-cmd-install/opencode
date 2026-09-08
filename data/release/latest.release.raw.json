@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 585,
       "digest": "sha256:297605288b04b59bec3af067c16a81b863a6b8db9f301d6ef0c302a566936ddb",
-      "download_count": 2924,
+      "download_count": 3046,
       "created_at": "2026-09-04T23:46:57Z",
       "updated_at": "2026-09-04T23:46:58Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/latest-linux-arm64.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 585,
       "digest": "sha256:2dd8263d3520512010369febbff773f72a3768236515e12c2a0382d20e4a863a",
-      "download_count": 144924,
+      "download_count": 151621,
       "created_at": "2026-09-04T23:46:56Z",
       "updated_at": "2026-09-04T23:46:56Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/latest-linux.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 704,
       "digest": "sha256:fad1e7f38b9c29ce2a34a7465f0ab798c86b5d4deefd933c72832c1a151832f9",
-      "download_count": 280649,
+      "download_count": 292355,
       "created_at": "2026-09-04T23:46:59Z",
       "updated_at": "2026-09-04T23:46:59Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/latest-mac.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9646,
       "digest": "sha256:13743a3a7da7e59de7ff49f1f34f842be2f55790bcd0588c869dddfe9ce19818",
-      "download_count": 114707,
+      "download_count": 119376,
       "created_at": "2026-09-04T23:46:52Z",
       "updated_at": "2026-09-04T23:46:53Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/latest.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 384,
       "digest": "sha256:049e3fb80a0afd30931d3ae8be302dd4cf5acc6a7c0c2ea9e1fbcb67c70bd8ef",
-      "download_count": 321299,
+      "download_count": 333536,
       "created_at": "2026-09-04T23:46:54Z",
       "updated_at": "2026-09-04T23:46:54Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/latest.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 46205298,
       "digest": "sha256:fe764f7f360c584a83e18dd5f23fb1a6b2725f5ee8854b0252fe558f7798e946",
-      "download_count": 60752,
+      "download_count": 62562,
       "created_at": "2026-09-04T23:27:50Z",
       "updated_at": "2026-09-04T23:27:56Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-darwin-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 48403326,
       "digest": "sha256:bb2e943a0c372aa3001e5f50ad7beb79ef7f4734b7e7b4f70fe02a8b6caa43b2",
-      "download_count": 308,
+      "download_count": 319,
       "created_at": "2026-09-04T23:27:50Z",
       "updated_at": "2026-09-04T23:27:56Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-darwin-x64-baseline.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 48403326,
       "digest": "sha256:9858853e7bacdbbd22c2d70c377e009dc4b354dd04f5588705411e7afb89fd2d",
-      "download_count": 5857,
+      "download_count": 6038,
       "created_at": "2026-09-04T23:27:56Z",
       "updated_at": "2026-09-04T23:27:59Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-darwin-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 100120401,
       "digest": "sha256:728cf211ff1de28b81a912147c008600d539b3174c666b77deeb7c2db4ae6148",
-      "download_count": 107,
+      "download_count": 111,
       "created_at": "2026-09-04T23:44:02Z",
       "updated_at": "2026-09-04T23:44:08Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-aarch64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 123062472,
       "digest": "sha256:0c973d5453437b33586ad22db2adcfc1f9aec5e174c77105be68b5d3f79df3a5",
-      "download_count": 30841,
+      "download_count": 31715,
       "created_at": "2026-09-04T23:43:54Z",
       "updated_at": "2026-09-04T23:44:06Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 157466096,
       "digest": "sha256:12f0525903543a6337e27823a9d8f58efddae66073f1746b01e84d2699f20713",
-      "download_count": 110,
+      "download_count": 111,
       "created_at": "2026-09-04T23:43:52Z",
       "updated_at": "2026-09-04T23:44:06Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-arm64.AppImage"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 116478168,
       "digest": "sha256:094f1ff6577e803c387e37f61cdfd42256e893695af50dcc5069ecd342728b83",
-      "download_count": 539,
+      "download_count": 555,
       "created_at": "2026-09-04T23:43:55Z",
       "updated_at": "2026-09-04T23:44:07Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 158981255,
       "digest": "sha256:a344cc56c0e0cd72ddfdf9635270e5c7810ffb2def453656559c0cc3b2362be4",
-      "download_count": 811,
+      "download_count": 825,
       "created_at": "2026-09-04T23:43:54Z",
       "updated_at": "2026-09-04T23:44:10Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-x86_64.AppImage"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 106416209,
       "digest": "sha256:98775713346fbc4afcfbd94076557b20af79700ebe7347e7ba838c4f44e61882",
-      "download_count": 2016,
+      "download_count": 2061,
       "created_at": "2026-09-04T23:44:06Z",
       "updated_at": "2026-09-04T23:44:14Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-linux-x86_64.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 151643706,
       "digest": "sha256:c588b272a2cc8aa7da3ad59997bb5f1315bfa9cb6c4191e4b6e0e5b2e55c6c10",
-      "download_count": 19779,
+      "download_count": 20897,
       "created_at": "2026-09-04T23:44:07Z",
       "updated_at": "2026-09-04T23:44:17Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-arm64.app.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 150962906,
       "digest": "sha256:9dac3c31246da436ddb75bb734a6de88d0d0b0ab24d9b07cc3c8d233a7a2849c",
-      "download_count": 19323,
+      "download_count": 19885,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:54Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-arm64.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 149547832,
       "digest": "sha256:1642615b871a36240d26b767386935687a8d6024dbcab9329962bbb67c991d8f",
-      "download_count": 37979,
+      "download_count": 39053,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:54Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-arm64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 157542,
       "digest": "sha256:b209ba1f294ca736c360211e7f7ad09576d3ac3e7959eb68fc7ec43a816bad13",
-      "download_count": 31264,
+      "download_count": 32113,
       "created_at": "2026-09-04T23:43:38Z",
       "updated_at": "2026-09-04T23:43:38Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-arm64.zip.blockmap"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 156692611,
       "digest": "sha256:2310cf53662f8670b69eca14ea1f8c6fec0349a5c53c317994b476a99f1d0d90",
-      "download_count": 2625,
+      "download_count": 2762,
       "created_at": "2026-09-04T23:44:07Z",
       "updated_at": "2026-09-04T23:44:18Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-x64.app.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 155862886,
       "digest": "sha256:f124da34450f22ca21c59885691020682a18fc2c944e282325fb636912384f28",
-      "download_count": 623,
+      "download_count": 644,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:54Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-x64.dmg"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 154485564,
       "digest": "sha256:d843e8af55a7a16f6a845a471c8a1e8f9a75a6659d85a076e8c1a019d630198c",
-      "download_count": 4945,
+      "download_count": 5051,
       "created_at": "2026-09-04T23:43:51Z",
       "updated_at": "2026-09-04T23:44:01Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-x64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 162345,
       "digest": "sha256:f27546baeeceecd6ed8423c802455b7bab2d1e5304a244dd0b458d3429f965e4",
-      "download_count": 3847,
+      "download_count": 3932,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:39Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-mac-x64.zip.blockmap"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 118716272,
       "digest": "sha256:541b2a47dae2305ffb71c952df1acadfa9508b3df545f42da538a8db64f2ef60",
-      "download_count": 322,
+      "download_count": 328,
       "created_at": "2026-09-04T23:43:38Z",
       "updated_at": "2026-09-04T23:43:51Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-win-arm64.exe"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 124849,
       "digest": "sha256:a9b59b7045b8c5e4c5a02fd3115250a42b3a816f233b8114db0fa60dfdba6d5e",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:39Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-win-arm64.exe.blockmap"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 126201640,
       "digest": "sha256:2914250df02bb911fcfb799715e3d2e13ab8cc748143406a7be099fde6820a20",
-      "download_count": 237070,
+      "download_count": 245584,
       "created_at": "2026-09-04T23:43:38Z",
       "updated_at": "2026-09-04T23:43:52Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-win-x64.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 133621,
       "digest": "sha256:5fa447bae964faea5c663e5edbec0ef3532389ad7ef1df1e4310b2009482411c",
-      "download_count": 119606,
+      "download_count": 123555,
       "created_at": "2026-09-04T23:43:39Z",
       "updated_at": "2026-09-04T23:43:39Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-desktop-win-x64.exe.blockmap"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 62459412,
       "digest": "sha256:9b9044ede6449dc34888b85f0a51be5777a5886fe5e1cbd67898b13f8a5bec04",
-      "download_count": 635,
+      "download_count": 654,
       "created_at": "2026-09-04T23:28:00Z",
       "updated_at": "2026-09-04T23:28:05Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-arm64-musl.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 60343887,
       "digest": "sha256:70baf769395ca4e7a68924026530c390eace194f3b7e4919d4efcb2aa2eed3c0",
-      "download_count": 14170,
+      "download_count": 14620,
       "created_at": "2026-09-04T23:27:56Z",
       "updated_at": "2026-09-04T23:28:04Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-arm64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 62890346,
       "digest": "sha256:ca5a08bacb46283eb63645eb2a04dadb4264fbfeb2fc44b9ce689981608f7cc6",
-      "download_count": 523,
+      "download_count": 528,
       "created_at": "2026-09-04T23:28:02Z",
       "updated_at": "2026-09-04T23:28:05Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-x64-baseline-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 60527414,
       "digest": "sha256:03a3f2f063e23477e3e4c3a738eb389f56c5a6ecf54d6a5a6d91caab557f042d",
-      "download_count": 8435,
+      "download_count": 8626,
       "created_at": "2026-09-04T23:27:57Z",
       "updated_at": "2026-09-04T23:28:04Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-x64-baseline.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 62890346,
       "digest": "sha256:294bfa0f4647e0fc5d3edceed94e8dc1047757975689f4269aadb91d6774f9ed",
-      "download_count": 896,
+      "download_count": 916,
       "created_at": "2026-09-04T23:27:57Z",
       "updated_at": "2026-09-04T23:28:02Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-x64-musl.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 60527414,
       "digest": "sha256:ea800b7ff56226b70952126c9fc1e2517ca4c4b5682fd9d3f9e87449697a1194",
-      "download_count": 99537,
+      "download_count": 102724,
       "created_at": "2026-09-04T23:27:56Z",
       "updated_at": "2026-09-04T23:28:03Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-linux-x64.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 58808598,
       "digest": "sha256:f953f0f0f5263d723ff4ea6141d5aa094d4941cf2f5d9179fc66eb0eb2d9524b",
-      "download_count": 423,
+      "download_count": 433,
       "created_at": "2026-09-04T23:30:06Z",
       "updated_at": "2026-09-04T23:30:11Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-windows-arm64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 60655377,
       "digest": "sha256:81ea8263923572e3e40cbd22f89d0008efa567b8a812389db042082b03bd2582",
-      "download_count": 2575,
+      "download_count": 2652,
       "created_at": "2026-09-04T23:30:06Z",
       "updated_at": "2026-09-04T23:30:11Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-windows-x64-baseline.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 60655378,
       "digest": "sha256:b32618aa3d1415f6e4f473aec248edef25759203fb707d7d968359d86d4a35ee",
-      "download_count": 21163,
+      "download_count": 21781,
       "created_at": "2026-09-04T23:30:06Z",
       "updated_at": "2026-09-04T23:30:11Z",
       "browser_download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.29/opencode-windows-x64.zip"
