@@ -7,7 +7,7 @@ The open source coding agent.
 - **Latest release**: `v1.18.30` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 205995 · **Forks**: 26895 · **Open issues**: 26022 · **Contributors**: 995
+- **Stars**: 206133 · **Forks**: 26932 · **Open issues**: 26085 · **Contributors**: 995
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/opencode> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:57:27Z._
+_Last regenerated: 2026-09-09T19:12:14Z._
