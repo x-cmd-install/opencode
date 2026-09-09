@@ -2,12 +2,12 @@ about:
   description: "The open source coding agent."
   license: MIT
   homepage: https://opencode.ai
-  head: 830d5eb
+  head: 9f8db11
   archived: false
   latestVersion: "v1.18.30"
   latestRelease: "v1.18.30"
   latestPrerelease: "pr-38252-videos"
-  collectedAt: 2026-09-09T04:56:48Z
+  collectedAt: 2026-09-09T19:11:17Z
 timeline:
   created: 2025-04-30
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-07-22
 popularity:
-  star: 205995
+  star: 206133
   watcher: 801
-  fork: 26895
+  fork: 26932
   release: 872
   contributor: 995
-  pullRequest: 21351
-  issue: 26022
+  pullRequest: 21414
+  issue: 26085
 language:
-  TypeScript: 26978534
+  TypeScript: 26973796
   MDX: 7739340
   CSS: 1043207
   HTML: 48548
@@ -33,71 +33,71 @@ language:
   Nix: 10955
   Dockerfile: 3696
   PowerShell: 2301
-totalBytes: 35912101
+totalBytes: 35907363
 recent:
   last30d:
     since: 2026-08-10
     release: 15
-    mergedPR: 1803
-    openPR: 1133
-    closedIssue: 1048
-    openIssue: 1784
-    commit: 326
+    mergedPR: 1836
+    openPR: 1150
+    closedIssue: 1067
+    openIssue: 1828
+    commit: 328
   last60d:
     since: 2026-07-11
     release: 37
-    mergedPR: 2827
-    openPR: 1225
-    closedIssue: 2149
-    openIssue: 3397
-    commit: 826
+    mergedPR: 2860
+    openPR: 1242
+    closedIssue: 2168
+    openIssue: 3441
+    commit: 828
   last90d:
     since: 2026-06-11
     release: 52
-    mergedPR: 3549
-    openPR: 1269
-    closedIssue: 4085
-    openIssue: 3815
-    commit: 1746
+    mergedPR: 3582
+    openPR: 1286
+    closedIssue: 4104
+    openIssue: 3859
+    commit: 1748
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 5968
-    openPR: 1413
-    closedIssue: 11530
-    openIssue: 4072
-    commit: 5614
+    mergedPR: 6001
+    openPR: 1430
+    closedIssue: 11549
+    openIssue: 4116
+    commit: 5616
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 8203
-    openPR: 1504
-    closedIssue: 20146
-    openIssue: 4166
-    commit: 13288
+    mergedPR: 8236
+    openPR: 1521
+    closedIssue: 20165
+    openIssue: 4210
+    commit: 13290
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 8730
-    openPR: 1504
-    closedIssue: 21849
-    openIssue: 4173
-    commit: 15702
+    mergedPR: 8763
+    openPR: 1521
+    closedIssue: 21868
+    openIssue: 4217
+    commit: 15704
 total:
   release: 872
-  mergedPR: 8733
-  openPR: 1504
-  closedIssue: 21849
-  openIssue: 4173
-  commit: 15702
+  mergedPR: 8766
+  openPR: 1521
+  closedIssue: 21868
+  openIssue: 4217
+  commit: 15704
 ---
 path: /home/runner/.x-repo/github.com/anomalyco/opencode
-collectedAt: 2026-09-09T04:57:19Z
+collectedAt: 2026-09-09T19:12:03Z
 loc:
   TypeScript:
-    code: 484661
+    code: 484647
     comments: 11831
-    blanks: 42513
+    blanks: 42512
     files: 2696
   Json:
     code: 430556
@@ -105,7 +105,7 @@ loc:
     blanks: 10
     files: 358
   Tsx:
-    code: 129671
+    code: 129607
     comments: 1162
     blanks: 9441
     files: 603
@@ -185,9 +185,9 @@ loc:
     blanks: 497
     files: 43
 total:
-  code: 1102462
+  code: 1102384
   comments: 28338
-  blanks: 62739
+  blanks: 62738
   files: 5387
 ---
 
