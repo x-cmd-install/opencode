@@ -1,0 +1,194 @@
+about:
+  description: "The open source coding agent."
+  license: MIT
+  homepage: https://opencode.ai
+  head: 859106e
+  archived: false
+  latestVersion: "v1.18.30"
+  latestRelease: "v1.18.30"
+  latestPrerelease: "pr-38252-videos"
+  collectedAt: 2026-09-10T04:59:30Z
+timeline:
+  created: 2025-04-30
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 2026-07-22
+popularity:
+  star: 206214
+  watcher: 801
+  fork: 26943
+  release: 872
+  contributor: 996
+  pullRequest: 21452
+  issue: 26121
+language:
+  TypeScript: 26987261
+  MDX: 7743518
+  CSS: 1049253
+  HTML: 48548
+  Astro: 32509
+  JavaScript: 30452
+  Shell: 22559
+  Nix: 10955
+  Dockerfile: 3696
+  PowerShell: 2301
+totalBytes: 35931052
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 14
+    mergedPR: 1795
+    openPR: 1116
+    closedIssue: 1043
+    openIssue: 1774
+    commit: 336
+  last60d:
+    since: 2026-07-12
+    release: 37
+    mergedPR: 2870
+    openPR: 1226
+    closedIssue: 2159
+    openIssue: 3433
+    commit: 836
+  last90d:
+    since: 2026-06-12
+    release: 52
+    mergedPR: 3599
+    openPR: 1267
+    closedIssue: 4059
+    openIssue: 3848
+    commit: 1756
+  last180d:
+    since: 2026-03-14
+    release: 100
+    mergedPR: 6023
+    openPR: 1412
+    closedIssue: 11539
+    openIssue: 4107
+    commit: 5624
+  last360d:
+    since: 2025-09-15
+    release: 100
+    mergedPR: 8261
+    openPR: 1505
+    closedIssue: 20203
+    openIssue: 4201
+    commit: 13298
+  last720d:
+    since: 2024-09-20
+    release: 100
+    mergedPR: 8792
+    openPR: 1505
+    closedIssue: 21913
+    openIssue: 4208
+    commit: 15710
+total:
+  release: 872
+  mergedPR: 8795
+  openPR: 1505
+  closedIssue: 21913
+  openIssue: 4208
+  commit: 15710
+---
+path: /home/runner/.x-repo/github.com/anomalyco/opencode
+collectedAt: 2026-09-10T05:00:04Z
+loc:
+  TypeScript:
+    code: 484903
+    comments: 11834
+    blanks: 42514
+    files: 2697
+  Json:
+    code: 430556
+    comments: 0
+    blanks: 10
+    files: 358
+  Tsx:
+    code: 129577
+    comments: 1163
+    blanks: 9435
+    files: 603
+  Css:
+    code: 36906
+    comments: 585
+    blanks: 5634
+    files: 175
+  Svg:
+    code: 16294
+    comments: 0
+    blanks: 11
+    files: 1251
+  JavaScript:
+    code: 983
+    comments: 12
+    blanks: 87
+    files: 9
+  Html:
+    code: 810
+    comments: 0
+    blanks: 20
+    files: 4
+  Sql:
+    code: 575
+    comments: 17
+    blanks: 0
+    files: 95
+  Bash:
+    code: 490
+    comments: 29
+    blanks: 64
+    files: 6
+  Nix:
+    code: 324
+    comments: 54
+    blanks: 32
+    files: 4
+  Sh:
+    code: 98
+    comments: 20
+    blanks: 21
+    files: 2
+  Dockerfile:
+    code: 93
+    comments: 3
+    blanks: 31
+    files: 7
+  Yaml:
+    code: 66
+    comments: 0
+    blanks: 13
+    files: 1
+  PowerShell:
+    code: 57
+    comments: 0
+    blanks: 13
+    files: 1
+  Xml:
+    code: 27
+    comments: 0
+    blanks: 0
+    files: 6
+  Toml:
+    code: 18
+    comments: 4
+    blanks: 3
+    files: 6
+  Markdown:
+    code: 0
+    comments: 12621
+    blanks: 4257
+    files: 121
+  Text:
+    code: 0
+    comments: 1847
+    blanks: 497
+    files: 43
+total:
+  code: 1102867
+  comments: 28342
+  blanks: 62773
+  files: 5389
+---
+
+---
