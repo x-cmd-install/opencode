@@ -12,6 +12,18 @@ The open source coding agent.
 x install opencode
 ```
 
+## Code insight
+
+Total: **1,101,892** lines of code across **5085** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 485,018 | 11,839 | 42,521 | 2698 |
+| Json | 430,556 | 0 | 10 | 358 |
+| Tsx | 129,577 | 1,163 | 9,435 | 603 |
+| Css | 36,906 | 585 | 5,634 | 175 |
+| Svg | 16,294 | 0 | 11 | 1251 |
+
 ## Source
 
 - **Upstream**: <https://github.com/anomalyco/opencode>
@@ -23,6 +35,25 @@ x install opencode
 - **Latest**: `v1.18.30` (2026-09-09)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 37
+
+## Popularity
+
+- **Stars**: 206,435 · **Forks**: 26,993 · **Open issues**: 26,183 · **Contributors**: 996
+
+## Totals (cumulative)
+
+- **Releases**: 872 · **Merged PRs**: 8811 · **Open PRs**: 1527 · **Closed issues**: 21938 · **Open issues**: 4245 · **Commits**: 15714
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 14 | 1811 | 1139 | 1068 | 1811 | 340 |
+| last60d | 2026-07-12 | 37 | 2886 | 1249 | 2184 | 3470 | 840 |
+| 90d | 2026-06-12 | 52 | 3615 | 1290 | 4084 | 3885 | 1760 |
+| last180d | 2026-03-14 | 100 | 6039 | 1435 | 11564 | 4144 | 5628 |
+| 360d | 2025-09-15 | 100 | 8277 | 1528 | 20228 | 4238 | 13302 |
+| last720d | 2024-09-20 | 100 | 8808 | 1528 | 21938 | 4245 | 15714 |
 
 ## Release assets
 
@@ -66,33 +97,16 @@ x install opencode
 | [opencode-windows-x64-baseline.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-windows-x64-baseline.zip) | 57.9 MiB | `native/win/x64` |
 | [opencode-windows-x64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-windows-x64.zip) | 57.9 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 206,370 · **Forks**: 26,977 · **Open issues**: 26,160 · **Contributors**: 996
+Reported by **37** distros on [repology.org](https://repology.org/project/opencode). **6** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 872 · **Merged PRs**: 8806 · **Open PRs**: 1520 · **Closed issues**: 21930 · **Open issues**: 4230 · **Commits**: 15711
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 14 | 1806 | 1131 | 1060 | 1796 | 337 |
-| 90d | 2026-06-12 | 52 | 3610 | 1282 | 4076 | 3870 | 1757 |
-| 360d | 2025-09-15 | 100 | 8272 | 1520 | 20220 | 4223 | 13299 |
-
-## Code size
-
-Total: **1,101,777** lines of code across **5084** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 484,903 | 11,835 | 42,514 | 2697 |
-| Json | 430,556 | 0 | 10 | 358 |
-| Tsx | 129,577 | 1,163 | 9,435 | 603 |
-| Css | 36,906 | 585 | 5,634 | 175 |
-| Svg | 16,294 | 0 | 11 | 1251 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.18.29` | ⚠️ outdated |
+| Homebrew | `1.18.30` | ✅ latest |
+| Nix unstable | `1.18.29` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.18.27` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -103,4 +117,4 @@ Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:37:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:43:33Z._
