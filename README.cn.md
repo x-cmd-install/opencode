@@ -4,7 +4,7 @@
 
 The open source coding agent.
 
-![opencode](https://repo.x-cmd.io/opencode.svg)
+![opencode](https://repo.x-cmd.io/opencode.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,64 @@ x install opencode
 - **最新版本**: `v1.18.30` (2026-09-09)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 37 个
-- **发布时间**: 2026-09-09T03:34:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [latest-linux-arm64.yml](https://github.com/anomalyco/opencode/releases/download/v1.18.30/latest-linux-arm64.yml) | 585 B | `native/linux/arm64` |
+| [latest-linux.yml](https://github.com/anomalyco/opencode/releases/download/v1.18.30/latest-linux.yml) | 585 B | `other` |
+| [latest-mac.yml](https://github.com/anomalyco/opencode/releases/download/v1.18.30/latest-mac.yml) | 704 B | `other` |
+| [latest.json](https://github.com/anomalyco/opencode/releases/download/v1.18.30/latest.json) | 9.4 KiB | `other` |
+| [latest.yml](https://github.com/anomalyco/opencode/releases/download/v1.18.30/latest.yml) | 384 B | `other` |
+| [opencode-darwin-arm64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-darwin-arm64.zip) | 44.1 MiB | `native/darwin/arm64` |
+| [opencode-darwin-x64-baseline.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-darwin-x64-baseline.zip) | 46.2 MiB | `native/darwin/x64` |
+| [opencode-darwin-x64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-darwin-x64.zip) | 46.2 MiB | `native/darwin/x64` |
+| [opencode-desktop-linux-aarch64.rpm](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-aarch64.rpm) | 95.5 MiB | `native/linux/arm64` |
+| [opencode-desktop-linux-amd64.deb](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-amd64.deb) | 117.5 MiB | `native/linux/x64` |
+| [opencode-desktop-linux-arm64.AppImage](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-arm64.AppImage) | 150.2 MiB | `native/linux/arm64` |
+| [opencode-desktop-linux-arm64.deb](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-arm64.deb) | 111.0 MiB | `native/linux/arm64` |
+| [opencode-desktop-linux-x86_64.AppImage](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-x86_64.AppImage) | 151.7 MiB | `native/linux/x64` |
+| [opencode-desktop-linux-x86_64.rpm](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-linux-x86_64.rpm) | 101.5 MiB | `native/linux/x64` |
+| [opencode-desktop-mac-arm64.app.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-arm64.app.tar.gz) | 144.7 MiB | `native/linux/arm64` |
+| [opencode-desktop-mac-arm64.dmg](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-arm64.dmg) | 144.0 MiB | `other` |
+| [opencode-desktop-mac-arm64.dmg.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-arm64.dmg.blockmap) | 154.4 KiB | `other` |
+| [opencode-desktop-mac-arm64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-arm64.zip) | 142.7 MiB | `other` |
+| [opencode-desktop-mac-arm64.zip.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-arm64.zip.blockmap) | 154.6 KiB | `other` |
+| [opencode-desktop-mac-x64.app.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-x64.app.tar.gz) | 149.5 MiB | `native/unknown` |
+| [opencode-desktop-mac-x64.dmg](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-x64.dmg) | 148.7 MiB | `other` |
+| [opencode-desktop-mac-x64.dmg.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-x64.dmg.blockmap) | 160.1 KiB | `other` |
+| [opencode-desktop-mac-x64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-x64.zip) | 147.4 MiB | `other` |
+| [opencode-desktop-mac-x64.zip.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-mac-x64.zip.blockmap) | 159.0 KiB | `other` |
+| [opencode-desktop-win-arm64.exe](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-win-arm64.exe) | 113.2 MiB | `other` |
+| [opencode-desktop-win-arm64.exe.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-win-arm64.exe.blockmap) | 122.9 KiB | `other` |
+| [opencode-desktop-win-x64.exe](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-win-x64.exe) | 120.4 MiB | `other` |
+| [opencode-desktop-win-x64.exe.blockmap](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-desktop-win-x64.exe.blockmap) | 130.9 KiB | `other` |
+| [opencode-linux-arm64-musl.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-arm64-musl.tar.gz) | 59.6 MiB | `native/linux/arm64/musl` |
+| [opencode-linux-arm64.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-arm64.tar.gz) | 57.6 MiB | `native/linux/arm64` |
+| [opencode-linux-x64-baseline-musl.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-x64-baseline-musl.tar.gz) | 60.0 MiB | `native/unknown` |
+| [opencode-linux-x64-baseline.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-x64-baseline.tar.gz) | 57.8 MiB | `native/unknown` |
+| [opencode-linux-x64-musl.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-x64-musl.tar.gz) | 60.0 MiB | `native/unknown` |
+| [opencode-linux-x64.tar.gz](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-linux-x64.tar.gz) | 57.8 MiB | `native/unknown` |
+| [opencode-windows-arm64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-windows-arm64.zip) | 56.1 MiB | `native/win/arm64` |
+| [opencode-windows-x64-baseline.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-windows-x64-baseline.zip) | 57.9 MiB | `native/win/x64` |
+| [opencode-windows-x64.zip](https://github.com/anomalyco/opencode/releases/download/v1.18.30/opencode-windows-x64.zip) | 57.9 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 206,214 · **Fork**: 26,943 · **开放 issue**: 26,121 · **贡献者**: 996
+- **Star**: 206,370 · **Fork**: 26,977 · **开放 issue**: 26,160 · **贡献者**: 996
 
 ## 累计统计
 
-- **发布数**: 872 · **已合并 PR**: 8795 · **开放 PR**: 1505 · **已关闭 issue**: 21913 · **开放 issue**: 4208 · **提交数**: 15710
+- **发布数**: 872 · **已合并 PR**: 8806 · **开放 PR**: 1520 · **已关闭 issue**: 21930 · **开放 issue**: 4230 · **提交数**: 15711
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 14 | 1795 | 1116 | 1043 | 1774 | 336 |
-| 90d | 2026-06-12 | 52 | 3599 | 1267 | 4059 | 3848 | 1756 |
-| 360d | 2025-09-15 | 100 | 8261 | 1505 | 20203 | 4201 | 13298 |
+| 30d | 2026-08-11 | 14 | 1806 | 1131 | 1060 | 1796 | 337 |
+| 90d | 2026-06-12 | 52 | 3610 | 1282 | 4076 | 3870 | 1757 |
+| 360d | 2025-09-15 | 100 | 8272 | 1520 | 20220 | 4223 | 13299 |
 
 ## 代码规模
 
@@ -47,7 +88,7 @@ x install opencode
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 484,903 | 11,834 | 42,514 | 2697 |
+| TypeScript | 484,903 | 11,835 | 42,514 | 2697 |
 | Json | 430,556 | 0 | 10 | 358 |
 | Tsx | 129,577 | 1,163 | 9,435 | 603 |
 | Css | 36,906 | 585 | 5,634 | 175 |
@@ -62,4 +103,4 @@ opencode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:40Z._
