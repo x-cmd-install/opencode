@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.30"
   latestRelease: "v1.18.30"
   latestPrerelease: "pr-38252-videos"
-  collectedAt: 2026-09-10T21:42:50Z
+  collectedAt: 2026-09-10T22:07:08Z
 timeline:
   created: 2025-04-30
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-07-22
 popularity:
-  star: 206435
+  star: 206437
   watcher: 799
   fork: 26993
   release: 872
   contributor: 996
-  pullRequest: 21499
+  pullRequest: 21501
   issue: 26183
 language:
   TypeScript: 26993017
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-11
     release: 14
     mergedPR: 1811
-    openPR: 1139
+    openPR: 1140
     closedIssue: 1068
     openIssue: 1811
     commit: 340
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-12
     release: 37
     mergedPR: 2886
-    openPR: 1249
+    openPR: 1240
     closedIssue: 2184
     openIssue: 3470
     commit: 840
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-12
     release: 52
     mergedPR: 3615
-    openPR: 1290
+    openPR: 1281
     closedIssue: 4084
     openIssue: 3885
     commit: 1760
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-14
     release: 100
     mergedPR: 6039
-    openPR: 1435
+    openPR: 1426
     closedIssue: 11564
     openIssue: 4144
     commit: 5628
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-15
     release: 100
     mergedPR: 8277
-    openPR: 1528
+    openPR: 1519
     closedIssue: 20228
     openIssue: 4238
     commit: 13302
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 8808
-    openPR: 1528
+    openPR: 1519
     closedIssue: 21938
     openIssue: 4245
     commit: 15714
 total:
   release: 872
   mergedPR: 8811
-  openPR: 1527
+  openPR: 1519
   closedIssue: 21938
   openIssue: 4245
   commit: 15714
 ---
 path: /home/runner/.x-repo/github.com/anomalyco/opencode
-collectedAt: 2026-09-10T21:43:20Z
+collectedAt: 2026-09-10T22:07:43Z
 loc:
   TypeScript:
     code: 485018
