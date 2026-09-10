@@ -1,0 +1,455 @@
+- repo: nix_stable_25_05
+  srcname: opencode
+  visiblename: opencode
+  version: 0.3.112
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - mk337337@gmail.com
+    - delafthi@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: opencode
+  visiblename: opencode
+  version: 1.1.14
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: 1.18.29-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.30
+  origversion: 1.18.30-1
+  status: newest
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: aur
+  srcname: opencode-bin
+  binname: opencode-bin
+  visiblename: opencode-bin
+  version: 1.18.30
+  origversion: 1.18.30-1
+  status: newest
+  summary: The AI coding agent built for the terminal.
+  maintainers:
+    - thdxr@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: opencode-git
+  binname: opencode-git
+  visiblename: opencode-git
+  version: 1.14.48.r38.gcddab63
+  origversion: 1.14.48.r38.gcddab63-1
+  status: rolling
+  summary: The open source coding agent
+  maintainers:
+    - pngdeity@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: null
+  status: outdated
+  summary: The open source AI coding agent
+- repo: chromebrew
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: null
+  status: outdated
+  summary: The open source coding agent.
+  licenses:
+    - MIT
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.18.30
+  origversion: null
+  status: newest
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-bash-completion
+  visiblename: opencode-bash-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Bash completion for opencode
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.2.6
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.18.29
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.1.48
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.15.12
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: homebrew
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.30
+  origversion: null
+  status: newest
+  summary: AI coding agent, built for the terminal
+- repo: liguros_develop
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.15.12
+  origversion: null
+  status: outdated
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.1.48
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.2.6
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: macports
+  srcname: llm/opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.26
+  origversion: null
+  status: outdated
+  summary: OpenCode is an open source agent that helps you write code
+  maintainers:
+    - breun@macports
+    - breun@github
+  licenses:
+    - MIT
+  categories:
+    - llm
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: 1.18.29-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: 1.18.29-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: 1.18.29-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: opencode
+  visiblename: opencode
+  version: 1.15.10
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+    - nixpkgs@duskyelf.me
+    - graham@grahambennett.org
+    - sergiomarcelo@yandex.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+    - nixpkgs@duskyelf.me
+    - graham@grahambennett.org
+  licenses:
+    - MIT
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: opencode
+  binnames:
+    - opencode
+    - opencode-web
+  visiblename: opencode
+  version: 1.18.22
+  origversion: 1.18.22-11
+  status: outdated
+  summary: Open-source AI coding agent
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 1.18.27
+  origversion: 1.18.27-1.1
+  status: outdated
+  summary: AI coding agent for the terminal
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC-BY-4.0 AND CC0-1.0 AND ISC AND MIT
+  categories:
+    - Unspecified
+- repo: pacstall
+  srcname: opencode-bin
+  binname: opencode-bin
+  visiblename: opencode-bin
+  version: 1.18.30
+  origversion: 1.18.30-1
+  status: newest
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - christian.brinkmann09@gmail.com
+- repo: parabola
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.29
+  origversion: 1.18.29-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 1.18.21
+  origversion: 1.18.21-0parrot7
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 1.18.21
+  origversion: 1.18.21-0parrot7
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+  categories:
+    - utils
+- repo: pisi_main
+  subrepo: main
+  srcname: programming/tool/opencode
+  visiblename: opencode
+  version: 1.18.11
+  origversion: null
+  status: outdated
+  summary: An open source AI coding agent built for the terminal
+  maintainers:
+    - erkanisik@pisilinux.org
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.30
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: spack
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.3
+  origversion: null
+  status: outdated
+  maintainers:
+    - aprozo@spack
+  licenses:
+    - MIT
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Open source AI coding agent for the terminal, IDE, and desktop
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Open source AI coding agent for the terminal, IDE, and desktop
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-fish-completion
+  visiblename: opencode-fish-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Fish completion for opencode
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-zsh-completion
+  visiblename: opencode-zsh-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Zsh completion for opencode
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
