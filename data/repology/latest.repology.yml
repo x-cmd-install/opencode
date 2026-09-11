@@ -21,6 +21,20 @@
     - delafthi@pm.me
   licenses:
     - MIT
+- repo: gentoo_ovl_guru
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
+  version: 1.2.6
+  origversion: null
+  status: legacy
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+  licenses:
+    - MIT
+  categories:
+    - dev-util
 - repo: arch
   subrepo: extra
   srcname: opencode
@@ -89,34 +103,6 @@
   version: 1.18.30
   origversion: null
   status: newest
-  summary: The open source coding agent
-  maintainers:
-    - kupravagoodman@proton.me
-    - gentoo-bugzilla@vimja.email
-  licenses:
-    - MIT
-  categories:
-    - dev-util
-- repo: terra_rawhide
-  srcname: opencode
-  binname: opencode-bash-completion
-  visiblename: opencode-bash-completion
-  version: 1.18.16
-  origversion: 1.18.16-1.fcrawhide
-  status: outdated
-  summary: Bash completion for opencode
-  maintainers:
-    - cbrunofb@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: gentoo_ovl_guru
-  srcname: dev-util/opencode-bin
-  visiblename: dev-util/opencode-bin
-  version: 1.2.6
-  origversion: null
-  status: legacy
   summary: The open source coding agent
   maintainers:
     - kupravagoodman@proton.me
@@ -278,9 +264,9 @@
 - repo: nix_unstable
   srcname: opencode
   visiblename: opencode
-  version: 1.18.29
+  version: 1.18.30
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent built for the terminal
   maintainers:
     - delafthi@pm.me
@@ -341,7 +327,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: opencode
   binnames:
     - opencode
@@ -354,7 +340,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: opencode
   binnames:
     - opencode
@@ -419,6 +405,20 @@
   origversion: 1.18.16-1.fcrawhide
   status: outdated
   summary: Open source AI coding agent for the terminal, IDE, and desktop
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-bash-completion
+  visiblename: opencode-bash-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Bash completion for opencode
   maintainers:
     - cbrunofb@gmail.com
   licenses:
