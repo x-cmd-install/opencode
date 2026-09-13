@@ -38,22 +38,22 @@ Total: **1,102,373** lines of code across **5087** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 206,796 · **Forks**: 27,053 · **Open issues**: 26,282 · **Contributors**: 997
+- **Stars**: 206,970 · **Forks**: 27,108 · **Open issues**: 26,368 · **Contributors**: 997
 
 ## Totals (cumulative)
 
-- **Releases**: 872 · **Merged PRs**: 8854 · **Open PRs**: 1497 · **Closed issues**: 22029 · **Open issues**: 4253 · **Commits**: 15717
+- **Releases**: 872 · **Merged PRs**: 8869 · **Open PRs**: 1496 · **Closed issues**: 22085 · **Open issues**: 4283 · **Commits**: 15717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 13 | 1727 | 1076 | 991 | 1717 | 344 |
-| last60d | 2026-07-14 | 35 | 2841 | 1216 | 2121 | 3435 | 844 |
-| 90d | 2026-06-14 | 49 | 3635 | 1259 | 4067 | 3884 | 1764 |
-| last180d | 2026-03-16 | 100 | 6056 | 1402 | 11478 | 4145 | 5632 |
-| 360d | 2025-09-17 | 100 | 8308 | 1497 | 20295 | 4246 | 13306 |
-| last720d | 2024-09-22 | 100 | 8851 | 1497 | 22029 | 4253 | 15717 |
+| 30d | 2026-08-14 | 12 | 1679 | 1081 | 964 | 1725 | 259 |
+| last60d | 2026-07-15 | 33 | 2829 | 1215 | 2075 | 3417 | 698 |
+| 90d | 2026-06-15 | 48 | 3646 | 1256 | 4052 | 3913 | 1682 |
+| last180d | 2026-03-17 | 100 | 6057 | 1398 | 11467 | 4173 | 5455 |
+| 360d | 2025-09-18 | 100 | 8318 | 1496 | 20343 | 4276 | 13214 |
+| last720d | 2024-09-23 | 100 | 8866 | 1496 | 22085 | 4283 | 15717 |
 
 ## Release assets
 
@@ -99,7 +99,7 @@ Total: **1,102,373** lines of code across **5087** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **37** distros on [repology.org](https://repology.org/project/opencode). **7** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **37** distros on [repology.org](https://repology.org/project/opencode). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,4 +117,4 @@ Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:41:24Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:41Z._
