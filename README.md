@@ -33,27 +33,27 @@ Total: **1,104,552** lines of code across **5098** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.33` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 210,686 · **Forks**: 27,887 · **Open issues**: 28,157 · **Contributors**: 1,002
+- **Stars**: 210,982 · **Forks**: 27,940 · **Open issues**: 28,263 · **Contributors**: 1,002
 
 ## Totals (cumulative)
 
-- **Releases**: 875 · **Merged PRs**: 9438 · **Open PRs**: 1525 · **Closed issues**: 23467 · **Open issues**: 4690 · **Commits**: 15828
+- **Releases**: 875 · **Merged PRs**: 9466 · **Open PRs**: 1554 · **Closed issues**: 23557 · **Open issues**: 4706 · **Commits**: 15830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 8 | 1172 | 1128 | 845 | 2007 | 184 |
-| last60d | 2026-07-31 | 23 | 2782 | 1223 | 2043 | 3794 | 586 |
-| 90d | 2026-07-01 | 46 | 3858 | 1261 | 4241 | 4308 | 1180 |
-| last180d | 2026-04-02 | 100 | 6305 | 1397 | 11513 | 4585 | 5139 |
-| 360d | 2025-10-04 | 100 | 8845 | 1525 | 21525 | 4686 | 13145 |
-| last720d | 2024-10-09 | 100 | 9435 | 1525 | 23467 | 4690 | 15828 |
+| 30d | 2026-08-31 | 8 | 1155 | 1158 | 866 | 2010 | 186 |
+| last60d | 2026-08-01 | 23 | 2801 | 1252 | 2073 | 3802 | 588 |
+| 90d | 2026-07-02 | 45 | 3843 | 1290 | 4215 | 4312 | 1182 |
+| last180d | 2026-04-03 | 100 | 6314 | 1427 | 11494 | 4601 | 5141 |
+| 360d | 2025-10-05 | 100 | 8869 | 1554 | 21610 | 4702 | 13147 |
+| last720d | 2024-10-10 | 100 | 9463 | 1554 | 23557 | 4706 | 15830 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:53:33Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:38:47Z._
