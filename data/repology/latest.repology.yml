@@ -1,19 +1,27 @@
-- repo: chocolatey
-  binname: opencode
-  visiblename: opencode
-  version: 1.19.4
-  origversion: null
-  status: outdated
-  summary: The open source AI coding agent
-- repo: chromebrew
+- repo: parabola
+  subrepo: extra
   srcname: opencode
-  visiblename: opencode
-  version: 1.18.34
-  origversion: null
+  binname: opencode-desktop
+  visiblename: opencode-desktop
+  version: 2.2.1
+  origversion: 2.2.1-1
   status: outdated
-  summary: The open source coding agent.
+  summary: The open source coding agent (desktop app)
   licenses:
     - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 2.1.4
+  origversion: 2.1.4-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+  categories:
+    - utils
 - repo: alt_p11
   srcname: opencode
   binnames:
@@ -35,11 +43,10 @@
   srcname: opencode
   binnames:
     - opencode
-    - opencode-common
     - opencode-desktop
   visiblename: opencode
-  version: 2.2.0
-  origversion: 2.2.0-alt1
+  version: 2.2.2
+  origversion: 2.2.2-alt1
   status: newest
   summary: AI coding agent for the terminal
   maintainers:
@@ -53,9 +60,9 @@
   srcname: opencode
   binname: opencode
   visiblename: opencode
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
   summary: The open source coding agent
   licenses:
     - MIT
@@ -64,9 +71,9 @@
   srcname: opencode
   binname: opencode-desktop
   visiblename: opencode-desktop
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
   summary: The open source coding agent (desktop app)
   licenses:
     - MIT
@@ -92,6 +99,22 @@
   summary: The open source coding agent
   maintainers:
     - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: opencode
+  visiblename: opencode
+  version: 1.19.4
+  origversion: null
+  status: outdated
+  summary: The open source AI coding agent
+- repo: chromebrew
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.34
+  origversion: null
+  status: outdated
+  summary: The open source coding agent.
   licenses:
     - MIT
 - repo: freebsd
@@ -121,6 +144,19 @@
     - MIT
   categories:
     - dev-util
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 2.1.4
+  origversion: 2.1.4-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+  categories:
+    - utils
 - repo: gentoo_ovl_guru
   srcname: dev-util/opencode-bin
   visiblename: dev-util/opencode-bin
@@ -171,7 +207,7 @@
   visiblename: dev-util/opencode-bin
   version: 2.2.0
   origversion: null
-  status: newest
+  status: outdated
   summary: The open source coding agent
   maintainers:
     - kupravagoodman@proton.me
@@ -184,9 +220,9 @@
 - repo: homebrew
   srcname: opencode
   visiblename: opencode
-  version: 2.2.0
+  version: 2.2.1
   origversion: null
-  status: newest
+  status: outdated
   summary: AI coding agent, built for the terminal
 - repo: liguros_develop
   srcname: dev-util/opencode-bin
@@ -206,37 +242,22 @@
 - repo: liguros_develop
   srcname: dev-util/opencode-bin
   visiblename: dev-util/opencode-bin
+  version: 2.2.0
+  origversion: null
+  status: outdated
+  summary: The open source coding agent
+  maintainers:
+    - kupravagoodman@proton.me
+    - gentoo-bugzilla@vimja.email
+    - ghostyn678+git@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/opencode-bin
+  visiblename: dev-util/opencode-bin
   version: 2.1.1
-  origversion: null
-  status: legacy
-  summary: The open source coding agent
-  maintainers:
-    - kupravagoodman@proton.me
-    - gentoo-bugzilla@vimja.email
-    - ghostyn678+git@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - dev-util
-- repo: liguros_develop
-  srcname: dev-util/opencode-bin
-  visiblename: dev-util/opencode-bin
-  version: 2.0.32
-  origversion: null
-  status: legacy
-  summary: The open source coding agent
-  maintainers:
-    - kupravagoodman@proton.me
-    - gentoo-bugzilla@vimja.email
-    - ghostyn678+git@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - dev-util
-- repo: liguros_develop
-  srcname: dev-util/opencode-bin
-  visiblename: dev-util/opencode-bin
-  version: 2.0.30
   origversion: null
   status: legacy
   summary: The open source coding agent
@@ -268,7 +289,7 @@
   visiblename: dev-util/opencode-bin
   version: 2.1.4
   origversion: null
-  status: outdated
+  status: legacy
   summary: The open source coding agent
   maintainers:
     - kupravagoodman@proton.me
@@ -278,25 +299,11 @@
     - MIT
   categories:
     - dev-util
-- repo: terra_rawhide
-  srcname: opencode
-  binname: opencode-fish-completion
-  visiblename: opencode-fish-completion
-  version: 1.18.16
-  origversion: 1.18.16-1.fcrawhide
-  status: outdated
-  summary: Fish completion for opencode
-  maintainers:
-    - cbrunofb@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: macports
   srcname: llm/opencode
   binname: opencode
   visiblename: opencode
-  version: 2.2.0
+  version: 2.2.2
   origversion: null
   status: newest
   summary: OpenCode, an open source AI coding agent
@@ -416,8 +423,8 @@
     - opencode
     - opencode-web
   visiblename: opencode
-  version: 1.18.33
-  origversion: 1.18.33-2
+  version: 1.19.5
+  origversion: 1.19.5-1
   status: outdated
   summary: Open-source AI coding agent
   maintainers:
@@ -453,51 +460,14 @@
 - repo: parabola
   subrepo: extra
   srcname: opencode
-  binname: opencode-desktop
-  visiblename: opencode-desktop
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
-  summary: The open source coding agent (desktop app)
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: opencode
   binname: opencode
   visiblename: opencode
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
+  version: 2.2.1
+  origversion: 2.2.1-1
+  status: outdated
   summary: The open source coding agent
   licenses:
     - MIT
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: opencode
-  binnames:
-    - opencode
-  visiblename: opencode
-  version: 2.1.4
-  origversion: 2.1.4-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
-  srcname: opencode
-  binnames:
-    - opencode
-  visiblename: opencode
-  version: 2.1.4
-  origversion: 2.1.4-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-  categories:
-    - utils
 - repo: pisi_main
   subrepo: main
   srcname: programming/tool/opencode
@@ -565,6 +535,20 @@
   origversion: 1.18.16-1.fcrawhide
   status: outdated
   summary: Bash completion for opencode
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-fish-completion
+  visiblename: opencode-fish-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Fish completion for opencode
   maintainers:
     - cbrunofb@gmail.com
   licenses:
