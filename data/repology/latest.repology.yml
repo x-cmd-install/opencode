@@ -1,27 +1,5 @@
-- repo: parabola
-  subrepo: extra
-  srcname: opencode
-  binname: opencode
-  visiblename: opencode
-  version: 2.2.6
-  origversion: 2.2.6-1
-  status: newest
-  summary: The open source coding agent
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: opencode
-  binname: opencode-desktop
-  visiblename: opencode-desktop
-  version: 2.2.6
-  origversion: 2.2.6-1
-  status: newest
-  summary: The open source coding agent (desktop app)
-  licenses:
-    - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: opencode
   binnames:
     - opencode
@@ -33,6 +11,51 @@
     - team@parrotsec.org
   categories:
     - utils
+- repo: pisi_main
+  subrepo: main
+  srcname: programming/tool/opencode
+  visiblename: opencode
+  version: 1.18.11
+  origversion: null
+  status: outdated
+  summary: An open source AI coding agent built for the terminal
+  maintainers:
+    - erkanisik@pisilinux.org
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: opencode
+  visiblename: opencode
+  version: 1.19.5
+  origversion: null
+  status: outdated
+  licenses:
+    - MIT
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Open source AI coding agent for the terminal, IDE, and desktop
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: spack
+  srcname: opencode
+  visiblename: opencode
+  version: 1.18.3
+  origversion: null
+  status: outdated
+  maintainers:
+    - aprozo@spack
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: opencode
   binnames:
@@ -155,19 +178,6 @@
     - MIT
   categories:
     - dev-util
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: opencode
-  binnames:
-    - opencode
-  visiblename: opencode
-  version: 2.2.5
-  origversion: 2.2.5-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-  categories:
-    - utils
 - repo: gentoo_ovl_guru
   srcname: dev-util/opencode-bin
   visiblename: dev-util/opencode-bin
@@ -428,7 +438,7 @@
     - opencode-pty
   visiblename: opencode
   version: 2.2.6
-  origversion: 2.2.6-1
+  origversion: 2.2.6-2
   status: newest
   summary: Open-source AI coding agent
   maintainers:
@@ -443,9 +453,9 @@
   binnames:
     - opencode
   visiblename: opencode
-  version: 2.2.5
-  origversion: 2.2.5-1.1
-  status: outdated
+  version: 2.2.6
+  origversion: 2.2.6-1.1
+  status: newest
   summary: AI coding agent for the terminal
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC-BY-4.0 AND CC0-1.0 AND ISC AND MIT
@@ -461,51 +471,41 @@
   summary: AI coding agent built for the terminal
   maintainers:
     - christian.brinkmann09@gmail.com
-- repo: pisi_main
-  subrepo: main
-  srcname: programming/tool/opencode
-  visiblename: opencode
-  version: 1.18.11
-  origversion: null
-  status: outdated
-  summary: An open source AI coding agent built for the terminal
-  maintainers:
-    - erkanisik@pisilinux.org
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: opencode
-  visiblename: opencode
-  version: 1.19.5
-  origversion: null
-  status: outdated
-  licenses:
-    - MIT
-- repo: spack
-  srcname: opencode
-  visiblename: opencode
-  version: 1.18.3
-  origversion: null
-  status: outdated
-  maintainers:
-    - aprozo@spack
-  licenses:
-    - MIT
-- repo: terra_rawhide
+- repo: parabola
+  subrepo: extra
   srcname: opencode
   binname: opencode
   visiblename: opencode
-  version: 1.18.16
-  origversion: 1.18.16-1.fcrawhide
-  status: outdated
-  summary: Open source AI coding agent for the terminal, IDE, and desktop
-  maintainers:
-    - cbrunofb@gmail.com
+  version: 2.2.6
+  origversion: 2.2.6-1
+  status: newest
+  summary: The open source coding agent
   licenses:
     - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: opencode
+  binname: opencode-desktop
+  visiblename: opencode-desktop
+  version: 2.2.6
+  origversion: 2.2.6-1
+  status: newest
+  summary: The open source coding agent (desktop app)
+  licenses:
+    - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 2.2.5
+  origversion: 2.2.5-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
   categories:
-    - Unspecified
+    - utils
 - repo: terra_rawhide
   srcname: opencode
   binname: opencode
