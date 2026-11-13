@@ -1,37 +1,10 @@
-- repo: nix_stable_25_05
+- repo: homebrew
   srcname: opencode
-  visiblename: opencode
-  version: 0.3.112
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - mk337337@gmail.com
-    - delafthi@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: opencode
-  visiblename: opencode
-  version: 1.1.14
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - delafthi@pm.me
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: opencode
-  binname: opencode
   visiblename: opencode
   version: 2.2.7
-  origversion: 2.2.7-1
+  origversion: null
   status: newest
-  summary: The open source coding agent
-  licenses:
-    - MIT
+  summary: AI coding agent, built for the terminal
 - repo: alt_p11
   srcname: opencode
   binnames:
@@ -56,7 +29,7 @@
     - opencode-desktop
   visiblename: opencode
   version: 2.2.7
-  origversion: 2.2.7-alt1
+  origversion: 2.2.7-alt2
   status: newest
   summary: AI coding agent for the terminal
   maintainers:
@@ -68,23 +41,23 @@
 - repo: arch
   subrepo: extra
   srcname: opencode
-  binname: opencode
-  visiblename: opencode
-  version: 2.2.7
-  origversion: 2.2.7-1
-  status: newest
-  summary: The open source coding agent
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: opencode
   binname: opencode-desktop
   visiblename: opencode-desktop
   version: 2.2.7
   origversion: 2.2.7-1
   status: newest
   summary: The open source coding agent (desktop app)
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 2.2.7
+  origversion: 2.2.7-1
+  status: newest
+  summary: The open source coding agent
   licenses:
     - MIT
 - repo: aur
@@ -199,13 +172,6 @@
     - MIT
   categories:
     - dev-util
-- repo: homebrew
-  srcname: opencode
-  visiblename: opencode
-  version: 2.2.7
-  origversion: null
-  status: newest
-  summary: AI coding agent, built for the terminal
 - repo: liguros_develop
   srcname: dev-util/opencode-bin
   visiblename: dev-util/opencode-bin
@@ -326,6 +292,40 @@
   summary: The open source coding agent (desktop app)
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 2.2.7
+  origversion: 2.2.7-1
+  status: newest
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: opencode
+  visiblename: opencode
+  version: 0.3.112
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - mk337337@gmail.com
+    - delafthi@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: opencode
+  visiblename: opencode
+  version: 1.1.14
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: opencode
   visiblename: opencode
@@ -340,6 +340,20 @@
     - sergiomarcelo@yandex.com
   licenses:
     - MIT
+- repo: terra_rawhide
+  srcname: opencode
+  binname: opencode-bash-completion
+  visiblename: opencode-bash-completion
+  version: 1.18.16
+  origversion: 1.18.16-1.fcrawhide
+  status: outdated
+  summary: Bash completion for opencode
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: nix_unstable
   srcname: opencode
   visiblename: opencode
@@ -417,23 +431,23 @@
 - repo: parabola
   subrepo: extra
   srcname: opencode
-  binname: opencode
-  visiblename: opencode
-  version: 2.2.6
-  origversion: 2.2.6-1
-  status: outdated
-  summary: The open source coding agent
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: opencode
   binname: opencode-desktop
   visiblename: opencode-desktop
   version: 2.2.6
   origversion: 2.2.6-1
   status: outdated
   summary: The open source coding agent (desktop app)
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 2.2.6
+  origversion: 2.2.6-1
+  status: outdated
+  summary: The open source coding agent
   licenses:
     - MIT
 - repo: parrot
@@ -515,20 +529,6 @@
   origversion: 1.18.16-1.fcrawhide
   status: outdated
   summary: Open source AI coding agent for the terminal, IDE, and desktop
-  maintainers:
-    - cbrunofb@gmail.com
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_rawhide
-  srcname: opencode
-  binname: opencode-bash-completion
-  visiblename: opencode-bash-completion
-  version: 1.18.16
-  origversion: 1.18.16-1.fcrawhide
-  status: outdated
-  summary: Bash completion for opencode
   maintainers:
     - cbrunofb@gmail.com
   licenses:
