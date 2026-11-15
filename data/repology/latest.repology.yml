@@ -1,3 +1,50 @@
+- repo: parrot
+  subrepo: parrot/main
+  srcname: opencode
+  binnames:
+    - opencode
+  visiblename: opencode
+  version: 2.2.5
+  origversion: 2.2.5-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+  categories:
+    - utils
+- repo: nix_stable_25_11
+  srcname: opencode
+  visiblename: opencode
+  version: 1.1.14
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opencode
+  binname: opencode
+  visiblename: opencode
+  version: 2.2.7
+  origversion: 2.2.7-1
+  status: outdated
+  summary: The open source coding agent
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: opencode
+  visiblename: opencode
+  version: 0.3.112
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - mk337337@gmail.com
+    - delafthi@pm.me
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: opencode
   binnames:
@@ -119,9 +166,9 @@
   srcname: misc/opencode
   binname: opencode
   visiblename: misc/opencode
-  version: 2.2.5
+  version: 2.3.0
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent for the terminal
   maintainers:
     - samm@freebsd.org
@@ -187,6 +234,20 @@
     - MIT
   categories:
     - dev-util
+- repo: nix_stable_26_05
+  srcname: opencode
+  visiblename: opencode
+  version: 1.15.10
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+    - nixpkgs@duskyelf.me
+    - graham@grahambennett.org
+    - sergiomarcelo@yandex.com
+  licenses:
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: dev-util/opencode-bin
   visiblename: dev-util/opencode-bin
@@ -344,54 +405,6 @@
   summary: The open source coding agent (desktop app)
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: opencode
-  binname: opencode
-  visiblename: opencode
-  version: 2.2.7
-  origversion: 2.2.7-1
-  status: outdated
-  summary: The open source coding agent
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: opencode
-  visiblename: opencode
-  version: 0.3.112
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - mk337337@gmail.com
-    - delafthi@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: opencode
-  visiblename: opencode
-  version: 1.1.14
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - delafthi@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: opencode
-  visiblename: opencode
-  version: 1.15.10
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - delafthi@pm.me
-    - nixpkgs@duskyelf.me
-    - graham@grahambennett.org
-    - sergiomarcelo@yandex.com
-  licenses:
-    - MIT
 - repo: nix_unstable
   srcname: opencode
   visiblename: opencode
@@ -490,19 +503,6 @@
     - MIT
 - repo: parrot
   subrepo: parrot-updates/main
-  srcname: opencode
-  binnames:
-    - opencode
-  visiblename: opencode
-  version: 2.2.5
-  origversion: 2.2.5-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
   srcname: opencode
   binnames:
     - opencode
