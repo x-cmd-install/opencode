@@ -14,14 +14,14 @@ x install opencode
 
 ## Code insight
 
-Total: **1,406,343** lines of code across **9140** files in the top 5 languages.
+Total: **1,407,163** lines of code across **9148** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 919,040 | 46,589 | 96,426 | 5796 |
-| Tsx | 234,884 | 8,263 | 23,756 | 1049 |
+| TypeScript | 919,775 | 46,672 | 96,519 | 5804 |
+| Tsx | 234,923 | 8,264 | 23,758 | 1049 |
 | Json | 152,097 | 0 | 7 | 557 |
-| Css | 62,433 | 4,068 | 9,960 | 250 |
+| Css | 62,479 | 4,071 | 9,968 | 250 |
 | Svg | 16,756 | 1 | 9 | 1488 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,406,343** lines of code across **9140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.0` (2026-11-13)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 226,916 · **Forks**: 30,739 · **Open issues**: 33,970 · **Contributors**: 1,082
+- **Stars**: 227,117 · **Forks**: 30,765 · **Open issues**: 34,058 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 897 · **Merged PRs**: 12237 · **Open PRs**: 1411 · **Closed issues**: 31368 · **Open issues**: 2602 · **Commits**: 22718
+- **Releases**: 897 · **Merged PRs**: 12249 · **Open PRs**: 1387 · **Closed issues**: 31416 · **Open issues**: 2642 · **Commits**: 22730
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 18 | 2030 | 1279 | 2321 | 1362 | 1687 |
-| last60d | 2026-09-16 | 24 | 3216 | 1406 | 4999 | 2231 | 3450 |
-| 90d | 2026-08-17 | 37 | 4937 | 1408 | 7561 | 2469 | 4145 |
-| last180d | 2026-05-19 | 90 | 7566 | 1411 | 15318 | 2584 | 6481 |
-| 360d | 2025-11-20 | 100 | 11334 | 1411 | 28372 | 2602 | 15524 |
-| last720d | 2024-11-25 | 100 | 12234 | 1411 | 31368 | 2602 | 22718 |
+| 30d | 2026-10-17 | 16 | 2011 | 1247 | 2243 | 1363 | 1699 |
+| last60d | 2026-09-17 | 24 | 3202 | 1381 | 4926 | 2258 | 3462 |
+| 90d | 2026-08-18 | 37 | 4904 | 1384 | 7521 | 2506 | 4157 |
+| last180d | 2026-05-20 | 90 | 7555 | 1387 | 15286 | 2624 | 6493 |
+| 360d | 2025-11-21 | 100 | 11340 | 1387 | 28384 | 2642 | 15536 |
+| last720d | 2024-11-26 | 100 | 12246 | 1387 | 31416 | 2642 | 22730 |
 
 ## Release assets
 
@@ -98,11 +98,11 @@ Total: **1,406,343** lines of code across **9140** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **48** distros on [repology.org](https://repology.org/project/opencode). **8** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **46** distros on [repology.org](https://repology.org/project/opencode). **11** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.2.7` | ⚠️ outdated |
+| Arch | `2.3.0` | ✅ latest |
 | Homebrew | `2.3.0` | ✅ latest |
 | Nix unstable | `2.2.6` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.6` | ⚠️ outdated |
@@ -116,4 +116,4 @@ Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:49:52Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:36:58Z._
