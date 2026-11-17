@@ -1,3 +1,26 @@
+- repo: nix_stable_25_05
+  srcname: opencode
+  visiblename: opencode
+  version: 0.3.112
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - mk337337@gmail.com
+    - delafthi@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: opencode
+  visiblename: opencode
+  version: 1.1.14
+  origversion: null
+  status: outdated
+  summary: AI coding agent built for the terminal
+  maintainers:
+    - delafthi@pm.me
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: opencode
   binnames:
@@ -312,8 +335,8 @@
   srcname: opencode
   binname: opencode-desktop
   visiblename: opencode-desktop
-  version: 2.2.6
-  origversion: 2.2.6-1
+  version: 2.2.7
+  origversion: 2.2.7-1
   status: outdated
   summary: The open source coding agent (desktop app)
   licenses:
@@ -323,8 +346,8 @@
   srcname: opencode
   binname: opencode
   visiblename: opencode
-  version: 2.2.6
-  origversion: 2.2.6-1
+  version: 2.2.7
+  origversion: 2.2.7-1
   status: outdated
   summary: The open source coding agent
   licenses:
@@ -334,9 +357,9 @@
   srcname: opencode
   binname: opencode-desktop
   visiblename: opencode-desktop
-  version: 2.2.7
-  origversion: 2.2.7-1
-  status: outdated
+  version: 2.3.0
+  origversion: 2.3.0-1
+  status: newest
   summary: The open source coding agent (desktop app)
   licenses:
     - MIT
@@ -345,33 +368,10 @@
   srcname: opencode
   binname: opencode
   visiblename: opencode
-  version: 2.2.7
-  origversion: 2.2.7-1
-  status: outdated
+  version: 2.3.0
+  origversion: 2.3.0-1
+  status: newest
   summary: The open source coding agent
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: opencode
-  visiblename: opencode
-  version: 0.3.112
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - mk337337@gmail.com
-    - delafthi@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: opencode
-  visiblename: opencode
-  version: 1.1.14
-  origversion: null
-  status: outdated
-  summary: AI coding agent built for the terminal
-  maintainers:
-    - delafthi@pm.me
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -426,8 +426,8 @@
   binnames:
     - opencode
   visiblename: opencode
-  version: 2.2.6
-  origversion: 2.2.6-1.1
+  version: 2.2.7
+  origversion: 2.2.7-1.1
   status: outdated
   summary: AI coding agent for the terminal
   licenses:
@@ -467,7 +467,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: opencode
   binnames:
     - opencode
@@ -480,7 +480,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: opencode
   binnames:
     - opencode
@@ -516,7 +516,7 @@
 - repo: spack
   srcname: opencode
   visiblename: opencode
-  version: 1.18.3
+  version: 2.2.5
   origversion: null
   status: outdated
   maintainers:
