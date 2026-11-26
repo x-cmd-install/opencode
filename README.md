@@ -14,15 +14,15 @@ x install opencode
 
 ## Code insight
 
-Total: **1,877,122** lines of code across **9995** files in the top 5 languages.
+Total: **1,893,296** lines of code across **10066** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 1,061,832 | 55,391 | 107,859 | 6770 |
-| Rust | 271,324 | 4,589 | 21,531 | 729 |
-| Tsx | 258,412 | 9,713 | 25,990 | 1137 |
-| Json | 189,500 | 0 | 7 | 1101 |
-| Css | 65,415 | 4,375 | 10,489 | 258 |
+| TypeScript | 1,071,422 | 55,968 | 108,754 | 6809 |
+| Rust | 273,450 | 4,644 | 21,675 | 731 |
+| Tsx | 259,066 | 9,760 | 26,135 | 1141 |
+| Json | 193,681 | 0 | 7 | 1127 |
+| Css | 65,038 | 4,273 | 10,417 | 258 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **1,877,122** lines of code across **9995** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.4.1` (2026-11-23)
-- **Last commit**: 2026-11-25
+- **Latest**: `v2.4.2` (2026-11-26)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 229,051 · **Forks**: 31,174 · **Open issues**: 34,956 · **Contributors**: 1,092
+- **Stars**: 229,283 · **Forks**: 31,217 · **Open issues**: 35,055 · **Contributors**: 1,094
 
 ## Totals (cumulative)
 
-- **Releases**: 903 · **Merged PRs**: 12870 · **Open PRs**: 1352 · **Closed issues**: 32150 · **Open issues**: 2806 · **Commits**: 23345
+- **Releases**: 904 · **Merged PRs**: 12940 · **Open PRs**: 1376 · **Closed issues**: 32256 · **Open issues**: 2799 · **Commits**: 23414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 21 | 1873 | 1230 | 1882 | 1299 | 1723 |
-| last60d | 2026-09-26 | 29 | 3465 | 1343 | 4802 | 2261 | 3780 |
-| 90d | 2026-08-27 | 38 | 4737 | 1348 | 7263 | 2638 | 4692 |
-| last180d | 2026-05-29 | 90 | 7977 | 1352 | 15228 | 2791 | 6874 |
-| 360d | 2025-11-30 | 100 | 11895 | 1352 | 28944 | 2805 | 15966 |
-| last720d | 2024-12-05 | 100 | 12867 | 1352 | 32150 | 2806 | 23345 |
+| 30d | 2026-10-27 | 22 | 1842 | 1235 | 1854 | 1277 | 1792 |
+| last60d | 2026-09-27 | 30 | 3520 | 1367 | 4810 | 2249 | 3849 |
+| 90d | 2026-08-28 | 39 | 4733 | 1372 | 7259 | 2628 | 4761 |
+| last180d | 2026-05-30 | 91 | 8044 | 1376 | 15277 | 2784 | 6943 |
+| 360d | 2025-12-01 | 100 | 11961 | 1376 | 29029 | 2798 | 16035 |
+| last720d | 2024-12-06 | 100 | 12937 | 1376 | 32256 | 2799 | 23414 |
 
 ## Release assets
 
@@ -96,17 +96,6 @@ Total: **1,877,122** lines of code across **9995** files in the top 5 languages.
 | [opencode-windows-x64-baseline.zip](https://github.com/anomalyco/opencode/releases/download/v1.19.6/opencode-windows-x64-baseline.zip) | 78.1 MiB | `native/win/x64` |
 | [opencode-windows-x64.zip](https://github.com/anomalyco/opencode/releases/download/v1.19.6/opencode-windows-x64.zip) | 78.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **49** distros on [repology.org](https://repology.org/project/opencode). **10** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.4.1` | ✅ latest |
-| Homebrew | `2.4.1` | ✅ latest |
-| Nix unstable | `2.3.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.3.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `opencode` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -116,4 +105,4 @@ Install metadata for opencode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:37:34Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:32:02Z._
